@@ -9,14 +9,18 @@ I’m learning in public to stay accountable, grow consistently, and hopefully i
 
 ## 🧠 My Learning Journey
 
-Before you can visualize data, you have to **understand and shape it** — and that’s where **NumPy** comes in.  
+My learning path in AI/ML has been all about **building from the basics** — one concept at a time.  
 
-I’m currently learning **NumPy**, which is like the foundation of data science and machine learning in Python.  
-It helps you work with **large amounts of data efficiently**, perform **mathematical operations quickly**, and structure your data in ways that make sense for analysis.  
+I started with **Pandas**, where I learned how to **clean, organize, and analyze datasets**. It helped me understand how real-world data often looks messy — and how to transform it into something meaningful.  
 
-In simple terms: NumPy teaches you how to **think in arrays**, not just variables — preparing your data to be cleaned, explored, and understood.  
+Then I explored **NumPy**, which strengthened my ability to handle **large numerical data efficiently** and perform mathematical operations at scale. It taught me how to think in **arrays and matrices**, the building blocks of data science.  
 
-Once I get comfortable manipulating and analyzing data with NumPy, I’ll move on to **Matplotlib** — where numbers start to come alive through charts and visual stories.
+After that, I moved to **Matplotlib**, where I learned to **visualize insights** and make data tell a story.  
+As a small project, I created a **heart disease visualization** using Matplotlib — analyzing medical data and saving it as an image. It was my first real taste of turning data into something *visual and informative*.  
+
+Now, I’m currently learning **Scikit-learn**, diving into **machine learning algorithms**, understanding how to train models, evaluate them, and make predictions. This stage feels like the bridge between understanding data and building intelligent systems.
+
+Each step has connected the dots a little more — from data cleaning, to analysis, to visualization, and now to machine learning itself.
 
 ---
 
@@ -37,7 +41,7 @@ Once I get comfortable manipulating and analyzing data with NumPy, I’ll move o
 **Languages:** Python, JavaScript (Node.js), PHP  
 **Frameworks:** Express, Laravel  
 **Databases:** MongoDB, MySQL  
-**Tools:** Git, Docker, Postman, VS Code  
+**Tools:** Git, Docker, Postman
 **Cloud:** AWS (learning), Azure (learning)
 
 ---
