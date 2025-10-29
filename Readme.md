@@ -28,11 +28,11 @@ Each step has connected the dots a little more — from data cleaning, to analys
 
 1. **Python** – writing clean, efficient code  
 2. **Jupyter Notebook** – visualizing ideas quickly  
-3. **Docker** – packaging ML apps easily  
-4. **CI/CD** – automating workflows  
-5. **AWS / Azure** – cloud skills for real-world deployment  
-6. **SQL** – managing and querying data  
-7. **Kubernetes** – scaling ML models in production
+3. **Docker** – packaging ML apps easily *(up next)*  
+4. **CI/CD** – automating workflows *(up next)*  
+5. **AWS / Azure** – cloud skills for real-world deployment *(up next)*  
+6. **SQL** – managing and querying data *(up next)*  
+7. **Kubernetes** – scaling ML models in production *(up next)*
 
 ---
 
@@ -41,7 +41,7 @@ Each step has connected the dots a little more — from data cleaning, to analys
 **Languages:** Python, JavaScript (Node.js), PHP  
 **Frameworks:** Express, Laravel  
 **Databases:** MongoDB, MySQL  
-**Tools:** Git, Docker, Postman
+**Tools:** Git, Docker, Postman  
 **Cloud:** AWS (learning), Azure (learning)
 
 ---
@@ -52,6 +52,15 @@ I’m not just interested in *using* AI — I want to **understand how it truly 
 By combining my software engineering background with ML/AI principles, I aim to build **practical, data-driven solutions** that solve real-world problems.  
 
 I believe that learning openly — one concept at a time — helps not just me, but anyone else walking a similar path.
+
+---
+
+## 🚀 Next Step: Kaggle Practice & Real-World Projects
+
+I’ve completed the core foundations of data handling and visualization — now it’s time to **apply what I’ve learned** through real-world practice on **Kaggle**.  
+
+Starting tomorrow, I’ll begin working on Kaggle notebooks to strengthen my understanding of model building, experimentation, and performance evaluation.  
+This marks the beginning of my **Stage 2: Practical Learning Phase**, where I’ll focus on applying theory to real data, improving my problem-solving skills, and learning by doing.
 
 ---
 
